@@ -36,10 +36,10 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: #799496;
+    color: #e9eb9e;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: #799496;
+    background-color: #49475b;
 }
 
 /* Three column grid with a nice big gap */
@@ -56,7 +56,7 @@ img {
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
     background-color: #49475b;
-    color: #799496;
+    color: #e9eb9e;
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
