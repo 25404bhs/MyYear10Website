@@ -23,7 +23,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #e9eb9e;
+    color: #ffffff;
     text-align: center;
     position: relative;
 }
@@ -74,7 +74,7 @@ img {
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
     background-color: #49475b;
-    color: 799496;
+    color: #ffffff;
     text-align: right;
     padding: 3em 3em;
 }
